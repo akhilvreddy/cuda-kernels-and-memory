@@ -1,0 +1,1 @@
+I wanted to write my own kernel and train based on that. ReLU is too simple so I decided to implement leaky ReLU and train XOR (my favorite toy model) on that.
